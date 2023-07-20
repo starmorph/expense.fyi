@@ -6,8 +6,8 @@ import ButtonLink from './button-link';
 import Footer from './footer';
 import Footnote from './footnote';
 
-const baseUrl = 'https://expense.fyi';
-const settingUrl = 'https://app.expense.fyi/settings';
+const baseUrl = 'https://voltchart-alpha.vercel.app/;
+const settingUrl = 'https://voltchart-alpha.vercel.app/settings';
 
 type UsageProps = {
 	plan?: string;

@@ -1,6 +1,6 @@
 import { Hr, Link, Text } from '@react-email/components';
 
-const baseUrl = 'https://expense.fyi';
+const baseUrl = 'https://voltchart-alpha.vercel.app/';
 
 export default function Footer() {
 	return (

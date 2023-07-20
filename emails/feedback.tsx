@@ -4,7 +4,7 @@ import { Container, Head, Html, Img, Preview, Section, Text } from '@react-email
 
 import Footer from './footer';
 
-const baseUrl = 'https://expense.fyi';
+const baseUrl = 'https://voltchart-alpha.vercel.app/';
 
 export default function FeedbackEmail({ message = '', email = '' }: { message?: string; email?: string }) {
 	return (

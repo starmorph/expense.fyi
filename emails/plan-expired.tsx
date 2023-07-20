@@ -6,7 +6,7 @@ import ButtonLink from './button-link';
 import Footer from './footer';
 import Footnote from './footnote';
 
-const baseUrl = 'https://expense.fyi';
+const baseUrl = 'https://voltchart-alpha.vercel.app/';
 const settingUrl = 'https://app.expense.fyi/settings';
 
 type PlanExpiredProps = { plan?: string };
