@@ -6,7 +6,7 @@ import ButtonLink from './button-link';
 import Footer from './footer';
 import Footnote from './footnote';
 
-const baseUrl = 'https://voltchart-alpha.vercel.app/;
+const baseUrl = 'https://voltchart-alpha.vercel.app/';
 const settingUrl = 'https://voltchart-alpha.vercel.app/settings';
 
 type UsageProps = {
